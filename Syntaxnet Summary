@@ -1,0 +1,3 @@
+Global Normalized Transition-Based Neural Networks
+
+1 feed-forward networks without any recurrence can achieve comparable or better accuracies than LSTMs, as long as they are globally normalized.
